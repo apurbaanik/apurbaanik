@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++ , Java , Machine Learning**
 
-- 📫 How to reach me **ab10131@nyu.edu**
+- 📫 How to reach me **anikbarua6422@gmail.com**
 
 - ⚡ Fun fact **I am a tech enthusiast**
 
