@@ -6,11 +6,11 @@
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Cloud Foundations**
+- 🔭 I’m currently working on **Intel x86 Architecture**
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 I’m currently learning **E15, E20, and x86 assembly language.**
 
-- 💬 Ask me about **C++ , Java , Machine Learning**
+- 💬 Ask me about **C++, Python, Java, Machine Learning**
 
 - 📫 How to reach me **anikbarua6422@gmail.com**
 
